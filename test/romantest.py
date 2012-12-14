@@ -34,7 +34,7 @@ class KnownValues(unittest.TestCase):
 					(7, 'VII'),
 					(8, 'VIII'),
 					(9, 'IX'),
-					(10, 'X'),
+					(10, 'XXX'),
 					(50, 'L'),
 					(100, 'C'),
 					(500, 'D'),
